@@ -1,0 +1,1 @@
+python C:\Users\parent\Jetbrains\Pycharm_Projects\Commandus\main.py
